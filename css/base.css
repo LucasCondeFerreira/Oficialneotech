@@ -1256,7 +1256,7 @@ section.depoimentos[data-v-56922e2b] {
 }
 .titulo h2[data-v-56922e2b] {
   font-family: var(--estilo);
-  font-size: clamp(4rem, 1vw, 7rem);
+  font-size: clamp(3rem, 1vw, 7rem);
   color: var(--cor-branco);
   text-transform: uppercase;
   line-height: 1;
@@ -1434,7 +1434,7 @@ img.detalhe.dois[data-v-56922e2b] {
     width: 100%;
   }
   .titulo h2[data-v-56922e2b] {
-    font-size: clamp(3rem, 1vw, 5rem);
+    font-size: clamp(2rem, 1vw, 5rem);
   }
   .titulo p[data-v-56922e2b] {
     margin: 10px 0 20px;
